@@ -1,7 +1,8 @@
 ### Hi 👋 , I'm [Luiz Otávio](https://github.com/luizfonsecaa) 🤓
 
-<br />
-- I'm working as a front-end and hybrid mobile developer @[Take 5](https://take5lms.com/) <br />
+&nbsp;
+
+- I'm working as a front-end and hybrid mobile developer [Take 5](https://take5lms.com/) <br />
 - I'm working with Vue.js and Quasar/Capacitor <br />
 - I like to learn new things like ReactJS, Node, Adonis, AWS, Firebase and unit and automated tests <br />
 - I'm a Brazilian, I live in São Paulo and I graduated in Sistemas para Internet
