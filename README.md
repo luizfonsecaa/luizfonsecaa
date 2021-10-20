@@ -7,8 +7,7 @@
 - I like to learn new things like ReactJS, Node, Adonis, AWS, Firebase and Unit and Automated tests <br />
 - I'm a Brazilian, I live in São Paulo and I graduated in Sistemas para Internet
 
-<br />
-<br />
+&nbsp;
 
 ### My networks:
 
