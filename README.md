@@ -3,7 +3,7 @@
 &nbsp;
 
 - I'm working as a front-end and hybrid mobile developer [Take 5](https://take5lms.com/) <br />
-- I'm working with Vue.js and Quasar/Capacitor and React Native  <br />
+- I'm working with Vue.js, Quasar/Capacitor and React Native  <br />
 - I like to learn new things like ReactJS, Node, AWS, Firebase and Unit and Automated tests <br />
 - I'm a Brazilian, I live in São Paulo and I'm graduated in Sistemas para Internet
 
